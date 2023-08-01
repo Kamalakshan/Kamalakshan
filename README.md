@@ -4,7 +4,7 @@
 <!-- About section -->
 
 ---
-✨ I am a dedicated and experienced Senior Mobile Architect with a strong passion for crafting exceptional mobile applications. My expertise spans across various platforms, including iOS, Android, IoT,AR, AOSP, Kotlin, Swift, Objective-C, React Native, and Flutter. Throughout my career, I have had the privilege of leading and contributing to several successful projects. I am committed to continuously learning and staying updated with the latest advancements in mobile technologies to deliver innovative solutions. I take great pride in collaborating with talented teams and leveraging my skills to create meaningful and user-centric experiences. My goal is to contribute positively to the mobile development community and bring value to every project I undertake.
+✨ I am a dedicated and experienced Technology Enthusiast with a strong passion for crafting exceptional mobile applications. My expertise spans across various platforms, including iOS, Android, IoT, AR, AOSP, Kotlin, Swift, Objective-C, React Native, and Flutter. Throughout my career, I have had the privilege of leading and contributing to several successful projects. I am committed to continuously learning and staying updated with the latest advancements in mobile technologies to deliver innovative solutions. I take great pride in collaborating with talented teams and leveraging my skills to create meaningful and user-centric experiences. My goal is to contribute positively to the mobile development community and bring value to every project I undertake.
 
 
 <!-- code gif-->
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about: iOS, Android, System Design & Solutioning.
 
-- 📫 How to reach me: [@kamalakshan_](https://twitter.com/kamalakshan)
+- 📫 How to reach me: [@kamalakshan](https://twitter.com/kamalakshan)
   
 <!-- About section: END -->
 
